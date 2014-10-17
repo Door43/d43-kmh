@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kmh:home|Door43 (kmh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kmh|d43-kmh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kmh/archive/master.zip|d43-kmh.zip]]
+
+**Recent Changes**
+{{changes>ns = kmh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kmh|Ethnologue data]]
+
